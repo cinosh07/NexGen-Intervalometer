@@ -31,7 +31,7 @@ To follow the project check out my youtube channel https://youtube.com/@carltrem
 - Camera Sentinel (to keep camera awake)
 - Work in cold condition
 - Work with Nikon, Canon, Fuji and Sony DSLR Cameras
-- 2100 mAh lipo battery (24 hours autonomy)
+- Built-in Li-Ion 2100 mAh battery (24 hours autonomy)
 - Internal charger (charge in 3 hours @ 1amp)
 - Can be powered with power supply for long terme use.
 - Dimension: 62mm x 45mm x 45mm
