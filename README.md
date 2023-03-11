@@ -30,7 +30,7 @@ To follow the project check out my youtube channel https://youtube.com/@carltrem
 - Up to 25 shooting profiles that you can manage, rename and configure.
 - 0.1 seconds steps
 - Bulb Mode
-- Easy to follow Interval result display (at the top of the application) that help notice in a snap any conflict in configurations (i.e. Interval shorter than the minimun length require)
+- Easy to follow Interval Timeline display (at the top of the application) that help notice in a snap any conflict in configurations (i.e. Interval shorter than the minimun length require)
 - Firmwate update via the web application  
 - Camera Sentinel (to keep camera awake)
 - Work in cold condition
