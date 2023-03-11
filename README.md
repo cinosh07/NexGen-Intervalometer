@@ -6,7 +6,7 @@ For the firmware please check link below. The firmware is a part of a camera sli
 
 The firmware is availlable HERE https://github.com/cinosh07/ESP32_Camera_Slider
 
-The interface is accessed by connecting to the Intervalometer hotspot over your mobile web browser.
+The interface is accessed by connecting to the Intervalometer hotspot over your mobile web browser. **Soon to come -> OLED Display with rotary nob to be able to do configurations and operations without using the wireless application.**
 
 To follow the project check my youtube channel https://youtube.com/@carltremblay
 
