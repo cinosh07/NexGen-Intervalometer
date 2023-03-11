@@ -13,4 +13,4 @@ This is a work in progress.
 
 To follow the project check my youtube channel https://youtube.com/@carltremblay
 
-![Home Page](Intervalometer-V1_2023-Mar-11_04-23-04AM-000_CustomizedView15435444726.png)
+![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-V1_2023-Mar-11_04-23-04AM-000_CustomizedView15435444726.png)
