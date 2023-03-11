@@ -6,9 +6,9 @@ For the firmware please check link below. The firmware is a part of a camera sli
 
 The firmware is availlable HERE https://github.com/cinosh07/ESP32_Camera_Slider
 
-The interface is accessed by connecting to the Intervalometer hotspot over your mobile web browser. **Soon to come -> OLED Display with rotary nob to be able to do configurations and operations without using the wireless application.**
+The interface is accessed by connecting to the Intervalometer hotspot over your mobile web browser. **Soon to come: OLED Display with rotary nob to be able to do configurations and operations without using the wireless application.**
 
-To follow the project check my youtube channel https://youtube.com/@carltremblay
+To follow the project check out my youtube channel https://youtube.com/@carltremblay
 
 
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-V1_2023-Mar-11_04-23-04AM-000_CustomizedView15435444726.png)
@@ -23,8 +23,10 @@ To follow the project check my youtube channel https://youtube.com/@carltremblay
 - Precise scheduling start with calendar
 - Precise scheduling ramping with calendar
 - You can pre-program your session at home and just plug it at location. Thanks to its RTC clock, it will start by itself at the right time. Just leave it and forget.
+- Up to 25 shooting profiles that you can manage, rename and configure.
 - 0.1 seconds steps
 - Bulb Mode
+- Easy to follow Interval result display (at the top of the application) that help notice in a snap any conflict in configurations (i.e. Interval shorter than the minimun length require)
 - Firmwate update via the web application  
 - Camera Sentinel (to keep camera awake)
 - Work in cold condition
