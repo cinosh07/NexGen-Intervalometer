@@ -45,6 +45,7 @@ To follow the project check out my youtube channel https://youtube.com/@carltrem
 
 
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Screenshot%202023-03-11%20095755.png)
+
 **Web application screenshot**
 
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-V1_2023-Mar-11_04-23-43AM-000_CustomizedView40332585583.png)
