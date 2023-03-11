@@ -17,7 +17,7 @@ To follow the project check my youtube channel https://youtube.com/@carltremblay
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Screenshot%202023-03-11%20095755.png)
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-V1_2023-Mar-11_04-23-43AM-000_CustomizedView40332585583.png)
 ![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-V1_2023-Mar-11_04-24-22AM-000_CustomizedView8618350890.png)
-![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer-4.png)
+![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/Intervalometer.png)
 
 
 
