@@ -20,7 +20,7 @@ To follow the project check out my youtube channel https://youtube.com/@carltrem
 
 # Features
 - Easy to use HTML5 interface
-- Designed for professionnal
+- Designed for professionnal timelapse creator
 - WIFI hot spot
 - Real Time Clock (RTC) 10 ms accuracy over 1 year.
 - Holy Grail Ramping
