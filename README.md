@@ -52,7 +52,7 @@ To follow the project check out my youtube channel https://youtube.com/@carltrem
 
 **RTC Clock view**
 
-![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/fdc54d61-3db8-433a-8b38-06d8ac8266d0.png)
+![Home Page](https://github.com/cinosh07/NexGen-Intervalometer/raw/main/images/fdc54d61-3db8-433a-8b38-06d8ac8266d0.PNG)
 
 **Other side view*
 
